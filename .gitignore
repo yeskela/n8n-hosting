@@ -1,0 +1,5 @@
+# Environment variables file
+.env
+
+# n8n storage folder
+n8n_storage/
